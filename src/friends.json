@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "https://static.comicvine.com/uploads/square_small/1/15776/901555-henry.jpg",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "http://ste.india.com/sites/default/files/2015/06/24/372757-indiana-jones.jpg",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "http://img4.bdbphotos.com/images/230x300/y/q/yqstxi97789pit9x.jpg?skj2io4l",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://cdn3.whatculture.com/images/2016/04/3b68569c3bc6-600x400.jpg",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "http://s3.crackedcdn.com/phpimages/article/3/2/4/525324_v1.jpg",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://maximumz.files.wordpress.com/2017/12/marion-ravenwood.jpg",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/mola_ram_2343.jpg",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "https://img.cinemablend.com/cb/e/d/6/6/5/a/ed665ac6a66fd0f711148fcc4279c1f6225506d71a4d33629b4e24e5bcb62a8f.jpg",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/Walter-Donovan_3371.jpg",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/kazimvenice.jpg",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "https://vignette.wikia.nocookie.net/indianajones/images/c/c6/ZalimSingh.jpg/revision/latest?cb=20071118062650",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "https://vignette.wikia.nocookie.net/indianajones/images/6/67/Toht.jpg/revision/latest?cb=20080521012512",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
+  
